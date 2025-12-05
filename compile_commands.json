@@ -1,0 +1,226 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/threadsig.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/threadsig.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/config.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/config.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/debuglog.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/debuglog.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/queue.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/queue.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/service.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/service.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/sysinfo.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/sysinfo.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/ltask.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/ltask.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/message.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/message.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/lua-seri.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/lua-seri.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/logqueue.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/logqueue.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/sysapi.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/sysapi.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/systime.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/systime.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/mqueue.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/mqueue.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-g",
+            "-Wall",
+            "--shared",
+            "-fPIC",
+            "-Isrc",
+            "-o",
+            "ltask.so",
+            "src/timer.c"
+        ],
+        "directory": "/home/dennis/ltask",
+        "file": "src/timer.c"
+    }
+]
