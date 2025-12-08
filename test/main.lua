@@ -6,20 +6,20 @@ start {
     },
     service_path = "service/?.lua;test/?.lua",
     bootstrap = {
-        -- {
-        --     name = "timer",
-        --     unique = true,
-        -- },
-        -- {
-        --     name = "logger",
-        --     unique = true,
-        -- },
-        -- {
-        --     name = "sockevent",
-        --     unique = true,
-        -- },
-        -- {
-        --     name = "bootstrap",
-        -- },
+        {
+            name = "timer",
+            unique = true,
+        },
+        {
+            name = "logger",
+            unique = true,
+        },
+        {
+            name = "sockevent",
+            unique = true,
+        },
+        {
+            name = "startup",
+        },
     },
 }

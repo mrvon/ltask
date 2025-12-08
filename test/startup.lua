@@ -2,7 +2,7 @@ local ltask = require "ltask"
 
 local arg = ...
 
-print "Bootstrap Begin"
+print "Startup Begin"
 print(os.date("%c", (ltask.now())))
 local addr = ltask.spawn("user", "Hello")
 
@@ -81,4 +81,4 @@ for req, resp in ltask.parallel(task) do
 	print(table.unpack(resp, 1, resp.n))
 end
 
-print "Bootstrap End"
+print "Startup End"
